@@ -1,0 +1,6 @@
+{
+  "name": "KAIRAT.exe — Секретное Досье №007",
+  "description": "Интерактивное расследование и секретное досье спецслужб: Где Кайрат? Вызов принят. Ответ ожидается 2–4 часа.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
